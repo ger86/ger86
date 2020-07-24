@@ -16,9 +16,9 @@ Además mantento un repositorio al que he cogido mucho cariño: Recetas Javascri
 
 ## 🌎 Y si quieres ver algunos de mis contenidos...
 
-- 🎥 Tengo un canal en *Youtube* donde regularmente publico vídeos sobre React, Javascript y Symfony: [Canal de Latte and Code](https://www.youtube.com/c/latteandcode)
-- 📝 También tengo un blog en *Medium* donde publico artículos sobre desarrollo web en el caso que prefieras leer a ver vídeos: [Blog en Medium](https://medium.com/@ger86)
-- 💌 Todos los domingos envío mi newsletter "Un poco de código para el café del domingo" con contenidos curados sobre el mundo del desarrollo. [¡Suscríbete!](https://eepurl.us20.list-manage.com/subscribe?u=c14cad2102bcf33bf216cc69e&id=2790da9378)
-- 🧑🏼‍💻 Y la red social donde podrás verme más activo es *[Linkedin](https://www.linkedin.com/in/gerardofernandezmoreno/)*
-- 🐤 Aunque sí, también tengo *[Twitter](https://twitter.com/latteandcode)
+- 🎥 Tengo un canal en **Youtube** donde regularmente publico vídeos sobre React, Javascript y Symfony: [Canal de Latte and Code](https://www.youtube.com/c/latteandcode).
+- 📝 También tengo un blog en **Medium** donde publico artículos sobre desarrollo web en el caso que prefieras leer a ver vídeos: [Blog en Medium](https://medium.com/@ger86).
+- 💌 Todos los domingos envío mi **newsletter** "Un poco de código para el café del domingo" con contenidos curados sobre el mundo del desarrollo. [¡Suscríbete!](https://eepurl.us20.list-manage.com/subscribe?u=c14cad2102bcf33bf216cc69e&id=2790da9378)
+- 🧑🏼‍💻 Y la red social donde podrás verme más activo es **[Linkedin](https://www.linkedin.com/in/gerardofernandezmoreno/)**.
+- 🐤 Aunque sí, también tengo **[Twitter](https://twitter.com/latteandcode)**.
 
