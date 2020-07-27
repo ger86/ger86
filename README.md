@@ -11,8 +11,9 @@ En mi GitHub podrás encontrar el código que complementa el material que creo p
 
 Actualmente desarrollo en dos tecnologías: *ReactJS* y *Symfony* (sí, soy de los que creen que PHP todavía tiene futuro) y me encantará compartir contigo todo lo que voy aprendiendo sobre ellas.
 
-Además mantento un repositorio al que he cogido mucho cariño: Recetas Javascripteras. A principios de 2019 comencé a publicar cada miércoles un pequeño trozo de código sobre Javascript donde explicar conceptos y trucos de este lenguaje. En este repositorio podrás encontrar todas ellas agrupadas por diferentes temas. ¡Espero que te guste!
+Además matengo un repositorio al que he cogido mucho cariño: "*Recetas Javascripteras*". A principios de 2019 comencé a publicar cada miércoles un pequeño trozo de código sobre Javascript donde explicar conceptos y trucos de este lenguaje. En este repositorio podrás encontrar todas ellas agrupadas por diferentes temas. ¡Espero que te guste!
 
+💛 [Recetas Javascripteras](https://github.com/ger86/recetas-javascripteras)
 
 ## 🌎 Y si quieres ver algunos de mis contenidos...
 
